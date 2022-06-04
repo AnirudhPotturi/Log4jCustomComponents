@@ -1,9 +1,0 @@
-2022/06/04 @ 00:42:01 PDT ALL   uw.edu.css553.DemoApplication 18 main - echo: Checkpoint placed!(6)
-2022/06/04 @ 00:42:01 PDT WARN  uw.edu.css553.DemoApplication 19 main - warn: releasePRIDLock: unlocking lock caught an exception
-2022/06/04 @ 00:42:01 PDT OFF   uw.edu.css553.DemoApplication 24 main - off: Turning off logging operations at this point!!
-2022/06/04 @ 00:43:24 PDT ALL   uw.edu.css553.DemoApplication 18 main - echo: Checkpoint placed!(6)
-2022/06/04 @ 00:43:24 PDT WARN  uw.edu.css553.DemoApplication 19 main - warn: releasePRIDLock: unlocking lock caught an exception
-2022/06/04 @ 00:43:24 PDT OFF   uw.edu.css553.DemoApplication 24 main - off: Turning off logging operations at this point!!
-2022/06/04 @ 00:44:33 PDT ALL   uw.edu.css553.DemoApplication 18 main - echo: Checkpoint placed!(6)
-2022/06/04 @ 00:44:33 PDT WARN  uw.edu.css553.DemoApplication 19 main - warn: releasePRIDLock: unlocking lock caught an exception
-2022/06/04 @ 00:44:33 PDT OFF   uw.edu.css553.DemoApplication 24 main - off: Turning off logging operations at this point!!
