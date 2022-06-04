@@ -55,5 +55,6 @@ A user should perform the following steps assuming they have added the dependenc
 
 -	Step 3: Next, create an object of type ‘CustomLogger’ and pass the Logger type object as a parameter to the constructor. It should be done as shown below:
 <p>CustomLogger logger = new CustomLogger(wrapped);</p>
+
 -	Step 4: At this point, the user is ready to use the logger they created. According to their application’s requirements, they may place logging statements. 
 At the end of the application’s program, it is recommender the user uses the ‘runner’ method through the CustomLogger object to visualize their log statements.
